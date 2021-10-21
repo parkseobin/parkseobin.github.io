@@ -12,7 +12,7 @@ email: seobinpark@hanyang.ac.kr
 website: 
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: false
 
 # Social links
 twitter_username: 
@@ -25,7 +25,7 @@ instagram_username:
 linkedin_username: seobin-park-715786187
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: 
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -51,17 +51,17 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Seobin Park and I'm an M.S. student in Computer Science at Hanyang University. Currently I'm working in Visual Intelligence Lab supervised by Prof. Tae Hyun Kim. 
 
 content:
-  - title: Projects # Title for the section
+  - title: Publication # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Fast Adaptation to Super-Resolution Networks via Meta-Learning
+        link: 
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/parkseobin/MLSR
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
