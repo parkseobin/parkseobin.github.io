@@ -53,26 +53,26 @@ about_content: | # this will include new lines to allow paragraphs
   Please refer to my [CV](https://drive.google.com/file/d/1MI8tBAodGvGa4tguMH5W34X8F8UKqsIc/view?usp=sharing) for more details about me. 
   
 
-content:
-  - title: Publication # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Fast Adaptation to Super-Resolution Networks via Meta-Learning
-        link: 
-        # link_text: Project Website
-        additional_links:
-          - title:  github repo
-            icon: fab fa-github
-            url: github.com/parkseobin/MLSR
-          - title: paper url
-            icon: fab fa-globe
-            url: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720749.pdf
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
-          ECCV 2020
+# content:
+#   - title: Publication # Title for the section
+#     layout: list # Type of content section (list/text)
+#     content:
+#       - layout: top-middle
+#         title: Fast Adaptation to Super-Resolution Networks via Meta-Learning
+#         link: 
+#         # link_text: Project Website
+#         additional_links:
+#           - title:  github repo
+#             icon: fab fa-github
+#             url: github.com/parkseobin/MLSR
+#           - title: paper url
+#             icon: fab fa-globe
+#             url: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720749.pdf
+#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#           #   icon: fab fa-github
+#           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#         description: | # this will include new lines to allow paragraphs
+#           ECCV 2020
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
