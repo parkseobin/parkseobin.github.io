@@ -12,7 +12,7 @@ email: seobinpark@hanyang.ac.kr
 website: 
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: 
